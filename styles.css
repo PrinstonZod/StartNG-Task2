@@ -1,0 +1,51 @@
+h1, h2, p {
+	margin: 1;
+	padding: 0;
+}
+h1, h2, {
+	color: rgb(107, 107, 132);
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 100%;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 2.5% 2.5% 0;
+	background: white;
+	line-height: 1.8;
+}
+
+h1 {
+	font: 50px Verdana, Geneva, sans-serif;
+	margin-bottom: .4em;
+	color: rgb(83, 104, 138);
+}
+
+h2 {
+	font: 1.6em Geneva, sans-serif;
+	margin-bottom: .4em;
+	color: rgb(83, 104, 138);
+}
+
+p {
+	font: 1.1em Verdana, Geneva, sans-serif;
+	margin-bottom: .4em;
+	color: black;
+	margin-bottom: 1em;
+}
+
+ul{
+	font: 1.1em Verdana, Geneva, sans-serif;
+	margin-bottom: .4em;
+	color: black;
+	margin-bottom: 1em;
+}
+
+a {
+	color: rgb(184, 126, 84);
+}
+a:hover {
+	color: rgb(120, 97, 55);
+}
